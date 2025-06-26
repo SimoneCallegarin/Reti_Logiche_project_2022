@@ -1,0 +1,7 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+ERROR: Index 8 out of bound 7 downto 0
+Time: 2050 ns  Iteration: 2  Process: /project_tb/UUT/outputs_process
+  File: C:/Users/simon/Desktop/RetiLogiche/Project_reti_logiche_1/Project_reti_logiche_1.srcs/sources_1/new/project_reti_logiche.vhd
+
+HDL Line: C:/Users/simon/Desktop/RetiLogiche/Project_reti_logiche_1/Project_reti_logiche_1.srcs/sources_1/new/project_reti_logiche.vhd:176
